@@ -2304,3 +2304,10 @@ bp_ballSpawner_C.ReceiveBeginPlay
 [2023.10.31-03.40.10:867][585]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ball0A9A7905473AAED6D3D6C68C790CB316.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ball.uasset'
 [2023.10.31-03.40.10:883][585]AssetCheck: New page: Asset Save: bp_ball
 [2023.10.31-03.40.10:883][585]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/bp_ball.bp_ball
+[2023.10.31-03.40.46:819][120]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2023.10.31-03.40.46:843][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Pong" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Map/Pong.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.31-03.40.46:883][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.10.31-03.40.46:892][120]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/Pong1A04E45F4384A4A104834888B97536DB.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Map/Pong.umap'
+[2023.10.31-03.40.46:912][120]LogFileHelpers: Saving map 'Pong' took 0.070
+[2023.10.31-03.40.46:928][120]AssetCheck: New page: Asset Save: Pong
+[2023.10.31-03.40.46:928][120]LogContentValidation: Display: Validating World /Game/Map/Pong.Pong
