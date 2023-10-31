@@ -1500,3 +1500,257 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.31-00.54.49:380][759]LogFileHelpers: Saving map 'Pong' took 0.058
 [2023.10.31-00.54.49:397][759]AssetCheck: New page: Asset Save: Pong
 [2023.10.31-00.54.49:397][759]LogContentValidation: Display: Validating World /Game/Map/Pong.Pong
+[2023.10.31-02.04.36:908][978]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2023.10.31-02.04.40:330][172]LogContentBrowser: Deferred new asset file creation: bp_player1
+[2023.10.31-02.04.40:348][172]LogContentBrowser: Creating deferred item: bp_player1
+[2023.10.31-02.04.46:020][513]LogContentBrowser: Attempting asset rename: bp_player1 -> bp_paddle
+[2023.10.31-02.04.46:181][513]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2023.10.31-02.04.46:198][513]LogContentBrowser: End creating deferred item bp_player1
+[2023.10.31-02.04.51:018][797]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bp_paddle.bp_paddle
+[2023.10.31-02.05.18:685][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2023.10.31-02.05.18:686][ 48]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Pong' took 0.059
+[2023.10.31-02.05.18:688][ 48]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/bp_paddle] ([2] browsable assets)...
+[2023.10.31-02.05.18:711][ 48]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp_paddle.bp_paddle]
+[2023.10.31-02.05.18:711][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp_paddle]
+[2023.10.31-02.05.18:711][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp_paddle" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/Autosaves/Game/bp_paddle_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.10.31-02.05.18:730][ 48]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_paddle_Auto4277D502F463C889064F7E9BAA3E585D2.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/Autosaves/Game/bp_paddle_Auto4.uasset'
+[2023.10.31-02.05.18:732][ 48]LogFileHelpers: Auto-saving content packages took 0.044
+[2023.10.31-02.07.23:681][768]BlueprintLog: New page: Compile bp_paddle
+[2023.10.31-02.07.23:745][768]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2023.10.31-02.07.24:259][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp_paddle" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/bp_paddle.uasset" SILENT=true
+[2023.10.31-02.07.24:268][791]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_paddle5231498F42E9E931445BF6925C17CB05.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/bp_paddle.uasset'
+[2023.10.31-02.07.24:288][791]AssetCheck: New page: Asset Save: bp_paddle
+[2023.10.31-02.07.24:288][791]LogContentValidation: Display: Validating Blueprint /Game/bp_paddle.bp_paddle
+[2023.10.31-02.08.02:559][232]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.31-02.08.02:562][232]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.31-02.08.09:943][232]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.31-02.08.09:954][232]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.10.31-02.08.09:968][232]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.10.31-02.08.23:040][  9]LogContentBrowser: Attempting asset rename: NewBlueprint -> bp_paddlePlayer
+[2023.10.31-02.08.23:044][  9]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.10.31-02.09.02:101][675]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.31-02.09.02:134][675]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.31-02.09.07:821][ 17]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2023.10.31-02.09.07:822][ 17]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.31-02.09.12:801][300]LogMetaData: Removing '/Game/Blueprints/bp_ball.bp_ball:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/bp_ball.PackageMetaData'
+[2023.10.31-02.09.12:801][300]LogMetaData: Removing '/Game/Blueprints/bp_ball.SKEL_bp_ball_C' ref from Metadata '/Game/bp_ball.PackageMetaData'
+[2023.10.31-02.09.12:801][300]LogMetaData: Removing '/Game/Blueprints/bp_ball.bp_ball_C' ref from Metadata '/Game/bp_ball.PackageMetaData'
+[2023.10.31-02.09.12:801][300]LogMetaData: Removing '/Game/Blueprints/bp_ball.bp_ball:EventGraph.K2Node_Event_0' ref from Metadata '/Game/bp_ball.PackageMetaData'
+[2023.10.31-02.09.12:801][300]LogMetaData: Removing '/Game/Blueprints/bp_ball.bp_ball:EventGraph.K2Node_Event_1' ref from Metadata '/Game/bp_ball.PackageMetaData'
+[2023.10.31-02.09.12:801][300]LogMetaData: Removing '/Game/Blueprints/bp_ball.bp_ball:EventGraph.K2Node_Event_2' ref from Metadata '/Game/bp_ball.PackageMetaData'
+[2023.10.31-02.09.12:801][300]LogMetaData: Removing '/Game/Blueprints/bp_ball.bp_ball_C:ReceiveBeginPlay' ref from Metadata '/Game/bp_ball.PackageMetaData'
+[2023.10.31-02.09.12:801][300]LogMetaData: Removing '/Game/Blueprints/bp_ball.SKEL_bp_ball_C:UserConstructionScript' ref from Metadata '/Game/bp_ball.PackageMetaData'
+[2023.10.31-02.09.12:801][300]LogMetaData: Removing '/Game/Blueprints/bp_ball.SKEL_bp_ball_C:ReceiveTick' ref from Metadata '/Game/bp_ball.PackageMetaData'
+[2023.10.31-02.09.12:801][300]LogMetaData: Removing '/Game/Blueprints/bp_ball.SKEL_bp_ball_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/bp_ball.PackageMetaData'
+[2023.10.31-02.09.12:801][300]LogMetaData: Removing '/Game/Blueprints/bp_ball.SKEL_bp_ball_C:ReceiveBeginPlay' ref from Metadata '/Game/bp_ball.PackageMetaData'
+[2023.10.31-02.09.12:876][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_ball" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ball.uasset" SILENT=true
+[2023.10.31-02.09.12:889][300]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ball3EA134984FB1597594DF55B72DD98EE0.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ball.uasset'
+[2023.10.31-02.09.12:925][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp_ball" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/bp_ball.uasset" SILENT=true
+[2023.10.31-02.09.12:926][300]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ballF222FFB74C74DA8E1E4F9A980EE5F596.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/bp_ball.uasset'
+[2023.10.31-02.09.13:013][300]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.31-02.09.13:014][300]LogContentValidation: Display: Validating ObjectRedirector /Game/bp_ball.bp_ball
+[2023.10.31-02.09.13:014][300]LogContentValidation: Display: Validating ObjectRedirector /Game/bp_ball.Default__bp_ball_C
+[2023.10.31-02.09.13:014][300]LogContentValidation: Display: Validating ObjectRedirector /Game/bp_ball.bp_ball_C
+[2023.10.31-02.09.13:014][300]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/bp_ball.bp_ball
+[2023.10.31-02.09.19:548][675]LogMetaData: Removing '/Game/Blueprints/bp_paddle.bp_paddle_C:ReceiveTick' ref from Metadata '/Game/bp_paddle.PackageMetaData'
+[2023.10.31-02.09.19:548][675]LogMetaData: Removing '/Game/Blueprints/bp_paddle.SKEL_bp_paddle_C:UserConstructionScript' ref from Metadata '/Game/bp_paddle.PackageMetaData'
+[2023.10.31-02.09.19:548][675]LogMetaData: Removing '/Game/Blueprints/bp_paddle.SKEL_bp_paddle_C:ReceiveTick' ref from Metadata '/Game/bp_paddle.PackageMetaData'
+[2023.10.31-02.09.19:548][675]LogMetaData: Removing '/Game/Blueprints/bp_paddle.SKEL_bp_paddle_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/bp_paddle.PackageMetaData'
+[2023.10.31-02.09.19:548][675]LogMetaData: Removing '/Game/Blueprints/bp_paddle.SKEL_bp_paddle_C' ref from Metadata '/Game/bp_paddle.PackageMetaData'
+[2023.10.31-02.09.19:548][675]LogMetaData: Removing '/Game/Blueprints/bp_paddle.SKEL_bp_paddle_C:ReceiveBeginPlay' ref from Metadata '/Game/bp_paddle.PackageMetaData'
+[2023.10.31-02.09.19:548][675]LogMetaData: Removing '/Game/Blueprints/bp_paddle.bp_paddle_C' ref from Metadata '/Game/bp_paddle.PackageMetaData'
+[2023.10.31-02.09.19:550][675]LogMetaData: Removing '/Game/Blueprints/bp_paddlePlayer.bp_paddlePlayer:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/bp_paddlePlayer.PackageMetaData'
+[2023.10.31-02.09.19:550][675]LogMetaData: Removing '/Game/Blueprints/bp_paddlePlayer.SKEL_bp_paddlePlayer_C:UserConstructionScript' ref from Metadata '/Game/bp_paddlePlayer.PackageMetaData'
+[2023.10.31-02.09.19:550][675]LogMetaData: Removing '/Game/Blueprints/bp_paddlePlayer.SKEL_bp_paddlePlayer_C' ref from Metadata '/Game/bp_paddlePlayer.PackageMetaData'
+[2023.10.31-02.09.19:550][675]LogMetaData: Removing '/Game/Blueprints/bp_paddlePlayer.bp_paddlePlayer_C' ref from Metadata '/Game/bp_paddlePlayer.PackageMetaData'
+[2023.10.31-02.09.19:550][675]LogMetaData: Removing '/Game/Blueprints/bp_paddlePlayer.bp_paddlePlayer:EventGraph.K2Node_Event_0' ref from Metadata '/Game/bp_paddlePlayer.PackageMetaData'
+[2023.10.31-02.09.19:550][675]LogMetaData: Removing '/Game/Blueprints/bp_paddlePlayer.bp_paddlePlayer:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/bp_paddlePlayer.PackageMetaData'
+[2023.10.31-02.09.19:550][675]LogMetaData: Removing '/Game/Blueprints/bp_paddlePlayer.bp_paddlePlayer:EventGraph.K2Node_Event_1' ref from Metadata '/Game/bp_paddlePlayer.PackageMetaData'
+[2023.10.31-02.09.19:550][675]LogMetaData: Removing '/Game/Blueprints/bp_paddlePlayer.bp_paddlePlayer:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/bp_paddlePlayer.PackageMetaData'
+[2023.10.31-02.09.19:550][675]LogMetaData: Removing '/Game/Blueprints/bp_paddlePlayer.bp_paddlePlayer:EventGraph.K2Node_Event_2' ref from Metadata '/Game/bp_paddlePlayer.PackageMetaData'
+[2023.10.31-02.09.19:550][675]LogMetaData: Removing '/Game/Blueprints/bp_paddlePlayer.bp_paddlePlayer:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/bp_paddlePlayer.PackageMetaData'
+[2023.10.31-02.09.19:551][675]LogMetaData: Removing '/Game/Blueprints/bp_player.bp_player:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/bp_player.PackageMetaData'
+[2023.10.31-02.09.19:551][675]LogMetaData: Removing '/Game/Blueprints/bp_player.bp_player_C' ref from Metadata '/Game/bp_player.PackageMetaData'
+[2023.10.31-02.09.19:551][675]LogMetaData: Removing '/Game/Blueprints/bp_player.bp_player:EventGraph.K2Node_Event_0' ref from Metadata '/Game/bp_player.PackageMetaData'
+[2023.10.31-02.09.19:551][675]LogMetaData: Removing '/Game/Blueprints/bp_player.bp_player:EventGraph.K2Node_Event_1' ref from Metadata '/Game/bp_player.PackageMetaData'
+[2023.10.31-02.09.19:551][675]LogMetaData: Removing '/Game/Blueprints/bp_player.bp_player:EventGraph.K2Node_Event_2' ref from Metadata '/Game/bp_player.PackageMetaData'
+[2023.10.31-02.09.19:551][675]LogMetaData: Removing '/Game/Blueprints/bp_player.SKEL_bp_player_C' ref from Metadata '/Game/bp_player.PackageMetaData'
+[2023.10.31-02.09.19:551][675]LogMetaData: Removing '/Game/Blueprints/bp_player.bp_player_C:ReceiveTick' ref from Metadata '/Game/bp_player.PackageMetaData'
+[2023.10.31-02.09.19:551][675]LogMetaData: Removing '/Game/Blueprints/bp_player.SKEL_bp_player_C:UserConstructionScript' ref from Metadata '/Game/bp_player.PackageMetaData'
+[2023.10.31-02.09.19:551][675]LogMetaData: Removing '/Game/Blueprints/bp_player.SKEL_bp_player_C:ReceiveTick' ref from Metadata '/Game/bp_player.PackageMetaData'
+[2023.10.31-02.09.19:551][675]LogMetaData: Removing '/Game/Blueprints/bp_player.SKEL_bp_player_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/bp_player.PackageMetaData'
+[2023.10.31-02.09.19:551][675]LogMetaData: Removing '/Game/Blueprints/bp_player.SKEL_bp_player_C:ReceiveBeginPlay' ref from Metadata '/Game/bp_player.PackageMetaData'
+[2023.10.31-02.09.19:592][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_paddle" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_paddle.uasset" SILENT=true
+[2023.10.31-02.09.19:602][675]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_paddle6FF4E290465C1FDC0B699EAAAA38469F.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_paddle.uasset'
+[2023.10.31-02.09.19:612][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_paddlePlayer" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_paddlePlayer.uasset" SILENT=true
+[2023.10.31-02.09.19:622][675]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_paddlePlayer231AA12647B07D6DC4522BAADCB2DD25.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_paddlePlayer.uasset'
+[2023.10.31-02.09.19:632][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_player" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_player.uasset" SILENT=true
+[2023.10.31-02.09.19:647][675]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_player1A632B6E4F4846247222D6BE8D19FAB4.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_player.uasset'
+[2023.10.31-02.09.19:809][675]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2023.10.31-02.09.19:851][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.10.31-02.09.19:889][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.10.31-02.09.19:937][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.10.31-02.09.19:977][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.10.31-02.09.19:998][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mode/bp_GameMode" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Mode/bp_GameMode.uasset" SILENT=true
+[2023.10.31-02.09.20:002][675]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_GameMode7CB0A7A345E34C1DC3D56A87BDDBC366.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Mode/bp_GameMode.uasset'
+[2023.10.31-02.09.20:070][675]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.31-02.09.20:070][675]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/bp_player.bp_player
+[2023.10.31-02.09.20:070][675]LogContentValidation: Display: Validating Blueprint /Game/Mode/bp_GameMode.bp_GameMode
+[2023.10.31-02.09.20:070][675]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/bp_paddlePlayer.bp_paddlePlayer
+[2023.10.31-02.09.20:070][675]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/bp_paddle.bp_paddle
+[2023.10.31-02.09.25:316][967]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.31-02.09.25:348][967]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.31-02.09.28:136][135]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2023.10.31-02.09.28:136][135]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.31-02.09.31:100][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/pm_bouncy" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Materials/pm_bouncy.uasset" SILENT=true
+[2023.10.31-02.09.31:101][304]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/pm_bouncyABBF88BB4C2816DB493228A68D4D0B2D.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Materials/pm_bouncy.uasset'
+[2023.10.31-02.09.31:221][304]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2023.10.31-02.09.31:271][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.10.31-02.09.31:306][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.10.31-02.09.31:341][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_ball" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ball.uasset" SILENT=true
+[2023.10.31-02.09.31:352][304]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ballE27B651043BAE279F1D537BDE4A555D7.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ball.uasset'
+[2023.10.31-02.09.31:418][304]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.31-02.09.31:418][304]LogContentValidation: Display: Validating PhysicalMaterial /Game/Materials/pm_bouncy.pm_bouncy
+[2023.10.31-02.09.31:418][304]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/bp_ball.bp_ball
+[2023.10.31-02.09.36:749][606]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.31-02.09.36:781][606]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.31-02.09.46:876][212]LogContentBrowser: Attempting asset rename: NewFolder -> ParentClass
+[2023.10.31-02.09.46:878][212]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.31-02.09.52:766][557]LogMetaData: Removing '/Game/Blueprints/ParentClass/bp_paddle.bp_paddle_C' ref from Metadata '/Game/Blueprints/bp_paddle.PackageMetaData'
+[2023.10.31-02.09.52:766][557]LogMetaData: Removing '/Game/Blueprints/ParentClass/bp_paddle.bp_paddle_C:ReceiveTick' ref from Metadata '/Game/Blueprints/bp_paddle.PackageMetaData'
+[2023.10.31-02.09.52:766][557]LogMetaData: Removing '/Game/Blueprints/ParentClass/bp_paddle.SKEL_bp_paddle_C' ref from Metadata '/Game/Blueprints/bp_paddle.PackageMetaData'
+[2023.10.31-02.09.52:766][557]LogMetaData: Removing '/Game/Blueprints/ParentClass/bp_paddle.SKEL_bp_paddle_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/bp_paddle.PackageMetaData'
+[2023.10.31-02.09.52:766][557]LogMetaData: Removing '/Game/Blueprints/ParentClass/bp_paddle.SKEL_bp_paddle_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/bp_paddle.PackageMetaData'
+[2023.10.31-02.09.52:766][557]LogMetaData: Removing '/Game/Blueprints/ParentClass/bp_paddle.SKEL_bp_paddle_C:ReceiveTick' ref from Metadata '/Game/Blueprints/bp_paddle.PackageMetaData'
+[2023.10.31-02.09.52:766][557]LogMetaData: Removing '/Game/Blueprints/ParentClass/bp_paddle.SKEL_bp_paddle_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/bp_paddle.PackageMetaData'
+[2023.10.31-02.09.52:820][557]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_paddleACC5CDE5482113E5D12CA4BD5F0177DE.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/ParentClass/bp_paddle.uasset'
+[2023.10.31-02.09.52:941][557]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2023.10.31-02.09.52:986][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.10.31-02.09.53:023][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.10.31-02.09.53:062][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_paddlePlayer" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_paddlePlayer.uasset" SILENT=true
+[2023.10.31-02.09.53:072][557]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_paddlePlayerE3EEAF9249F287E6D5E069BF48067F0F.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_paddlePlayer.uasset'
+[2023.10.31-02.09.53:134][557]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.31-02.09.53:134][557]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/bp_paddlePlayer.bp_paddlePlayer
+[2023.10.31-02.09.53:134][557]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ParentClass/bp_paddle.bp_paddle
+[2023.10.31-02.09.56:319][723]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.31-02.09.56:349][723]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.31-02.10.00:370][965]LogContentBrowser: Attempting asset rename: NewFolder -> ChildClass
+[2023.10.31-02.10.00:370][965]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.31-02.10.11:016][595]LogMetaData: Removing '/Game/Blueprints/ChildClass/bp_paddlePlayer.bp_paddlePlayer_C' ref from Metadata '/Game/Blueprints/bp_paddlePlayer.PackageMetaData'
+[2023.10.31-02.10.11:016][595]LogMetaData: Removing '/Game/Blueprints/ChildClass/bp_paddlePlayer.SKEL_bp_paddlePlayer_C' ref from Metadata '/Game/Blueprints/bp_paddlePlayer.PackageMetaData'
+[2023.10.31-02.10.11:016][595]LogMetaData: Removing '/Game/Blueprints/ChildClass/bp_paddlePlayer.SKEL_bp_paddlePlayer_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/bp_paddlePlayer.PackageMetaData'
+[2023.10.31-02.10.11:016][595]LogMetaData: Removing '/Game/Blueprints/ChildClass/bp_paddlePlayer.bp_paddlePlayer:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/bp_paddlePlayer.PackageMetaData'
+[2023.10.31-02.10.11:016][595]LogMetaData: Removing '/Game/Blueprints/ChildClass/bp_paddlePlayer.bp_paddlePlayer:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/bp_paddlePlayer.PackageMetaData'
+[2023.10.31-02.10.11:016][595]LogMetaData: Removing '/Game/Blueprints/ChildClass/bp_paddlePlayer.bp_paddlePlayer:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/bp_paddlePlayer.PackageMetaData'
+[2023.10.31-02.10.11:016][595]LogMetaData: Removing '/Game/Blueprints/ChildClass/bp_paddlePlayer.bp_paddlePlayer:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/bp_paddlePlayer.PackageMetaData'
+[2023.10.31-02.10.11:016][595]LogMetaData: Removing '/Game/Blueprints/ChildClass/bp_paddlePlayer.bp_paddlePlayer:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/bp_paddlePlayer.PackageMetaData'
+[2023.10.31-02.10.11:016][595]LogMetaData: Removing '/Game/Blueprints/ChildClass/bp_paddlePlayer.bp_paddlePlayer:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/bp_paddlePlayer.PackageMetaData'
+[2023.10.31-02.10.11:016][595]LogMetaData: Removing '/Game/Blueprints/ChildClass/bp_paddlePlayer.bp_paddlePlayer:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Blueprints/bp_paddlePlayer.PackageMetaData'
+[2023.10.31-02.10.11:068][595]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_paddlePlayerF9910D58423CA19BF7D335BD29E555F8.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/ChildClass/bp_paddlePlayer.uasset'
+[2023.10.31-02.10.11:192][595]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2023.10.31-02.10.11:241][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.10.31-02.10.11:279][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.10.31-02.10.11:328][595]AssetCheck: New page: Asset Save: bp_paddlePlayer
+[2023.10.31-02.10.11:328][595]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ChildClass/bp_paddlePlayer.bp_paddlePlayer
+[2023.10.31-02.22.49:301][396]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/ChildClass/bp_paddlePlayer.bp_paddlePlayer
+[2023.10.31-02.22.54:228][551]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.10.31-02.22.54:228][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-02.25.52:641][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2023.10.31-02.25.52:653][ 18]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Pong' took 0.078
+[2023.10.31-02.25.52:654][ 18]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/ChildClass/bp_paddlePlayer] ([2] browsable assets)...
+[2023.10.31-02.25.52:670][ 18]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ChildClass/bp_paddlePlayer.bp_paddlePlayer]
+[2023.10.31-02.25.52:670][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ChildClass/bp_paddlePlayer]
+[2023.10.31-02.25.52:683][ 18]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_paddlePlayer_Auto5D15321F04DE4DDA1484E93BAF9CD4A43.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/Autosaves/Game/Blueprints/ChildClass/bp_paddlePlayer_Auto5.uasset'
+[2023.10.31-02.25.52:684][ 18]LogFileHelpers: Auto-saving content packages took 0.032
+[2023.10.31-02.30.38:112][583]BlueprintLog: New page: Compile bp_paddlePlayer
+[2023.10.31-02.30.39:715][583]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2023.10.31-02.30.40:406][619]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_paddlePlayer626D7F34476744B3EBD4AF8EFBF941A5.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/ChildClass/bp_paddlePlayer.uasset'
+[2023.10.31-02.30.40:424][619]AssetCheck: New page: Asset Save: bp_paddlePlayer
+[2023.10.31-02.30.40:424][619]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ChildClass/bp_paddlePlayer.bp_paddlePlayer
+[2023.10.31-02.30.44:381][849]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.10.31-02.30.44:407][849]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.31-02.30.50:144][178]BlueprintLog: New page: Compile bp_GameMode
+[2023.10.31-02.30.50:204][178]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2023.10.31-02.30.51:148][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mode/bp_GameMode" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Mode/bp_GameMode.uasset" SILENT=true
+[2023.10.31-02.30.51:152][231]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_GameMode1597E1D94E1DEFC17D09F5870A759504.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Mode/bp_GameMode.uasset'
+[2023.10.31-02.30.51:169][231]AssetCheck: New page: Asset Save: bp_GameMode
+[2023.10.31-02.30.51:169][231]LogContentValidation: Display: Validating Blueprint /Game/Mode/bp_GameMode.bp_GameMode
+[2023.10.31-02.30.54:392][421]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.31-02.30.54:398][421]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.31-02.30.54:399][421]LogPlayLevel: [PlayLevel] Compiling bp_ball before play...
+[2023.10.31-02.30.54:487][421]LogUObjectHash: Compacting FUObjectHashTables data took  15.92ms
+[2023.10.31-02.30.54:489][421]LogPlayLevel: PlayLevel: Blueprint regeneration took 91 ms (1 blueprints)
+[2023.10.31-02.30.54:490][421]PIE: New page: PIE session: Pong (Oct 30, 2023, 4:30:54 PM)
+[2023.10.31-02.30.54:528][421]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Pong
+[2023.10.31-02.30.54:532][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004251s)
+[2023.10.31-02.30.54:533][421]LogAIModule: Creating AISystem for world Pong
+[2023.10.31-02.30.54:534][421]LogPlayLevel: PIE: World Init took: (0.001590s)
+[2023.10.31-02.30.54:534][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Pong.Pong to /Game/Map/UEDPIE_0_Pong.Pong (0.006119s)
+[2023.10.31-02.30.54:575][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.10.31-02.30.54:576][421]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.10.31-02.30.54:576][421]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.31-02.30.54:576][421]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.31-02.30.54:576][421]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.31-02.30.54:576][421]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.31-02.30.54:576][421]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.31-02.30.54:576][421]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.31-02.30.54:576][421]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.31-02.30.54:576][421]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.31-02.30.54:576][421]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.31-02.30.54:576][421]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.31-02.30.54:576][421]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.31-02.30.54:576][421]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.31-02.30.54:671][421]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.31-02.30.54:671][421]LogAudioMixer: Display: 1: FrontRight
+[2023.10.31-02.30.54:690][421]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2023.10.31-02.30.54:690][421]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.31-02.30.54:690][421]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.31-02.30.54:690][421]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.31-02.30.54:691][421]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.31-02.30.54:691][421]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.31-02.30.54:691][421]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.31-02.30.54:693][421]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.31-02.30.54:693][421]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.31-02.30.54:693][421]LogInit: FAudioDevice initialized.
+[2023.10.31-02.30.54:693][421]LogAudio: Display: Audio Device (ID: 9) registered with world 'Pong'.
+[2023.10.31-02.30.54:714][421]LogLoad: Game class is 'bp_GameMode_C'
+[2023.10.31-02.30.54:715][421]LogWorld: Bringing World /Game/Map/UEDPIE_0_Pong.Pong up for play (max tick rate 60) at 2023.10.30-21.30.54
+[2023.10.31-02.30.54:716][421]LogWorld: Bringing up level for play took: 0.000871
+[2023.10.31-02.30.54:716][421]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2023.10.31-02.30.54:719][421]PIE: Server logged in
+[2023.10.31-02.30.54:720][421]PIE: Play in editor total start time 0.323 seconds.
+[2023.10.31-02.31.08:280][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-02.31.08:280][232]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Pong
+[2023.10.31-02.31.08:280][232]LogWorld: UWorld::CleanupWorld for Pong, bSessionEnded=true, bCleanupResources=true
+[2023.10.31-02.31.08:280][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-02.31.08:297][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.31-02.31.08:314][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-02.31.08:353][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-02.31.08:353][232]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.31-02.31.08:354][232]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.31-02.31.08:362][232]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2023.10.31-02.31.08:406][233]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.10.31-02.31.13:353][519]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.10.31-02.31.13:381][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Pong" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Map/Pong.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.31-02.31.13:418][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.10.31-02.31.13:429][519]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/PongC4CD2B3E4E3831F30407B8AAADB6F8A6.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Map/Pong.umap'
+[2023.10.31-02.31.13:443][519]LogFileHelpers: Saving map 'Pong' took 0.062
+[2023.10.31-02.31.13:461][519]AssetCheck: New page: Asset Save: Pong
+[2023.10.31-02.31.13:461][519]LogContentValidation: Display: Validating World /Game/Map/Pong.Pong
+[2023.10.31-02.32.44:682][481]LogSlate: Window 'Delete Variable' being destroyed
+[2023.10.31-02.32.48:593][708]BlueprintLog: New page: Compile bp_paddle
+[2023.10.31-02.32.48:689][708]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\UE4 Pong\UE4Pong-Austin-Ozan\UE4PongAustinOzan\Content\Blueprints\ChildClass\bp_paddlePlayer.uasset: [Compiler] Could not find a variable named "speed" in 'bp_paddlePlayer_C'.
+Make sure 'bp_paddlePlayer_C' has been compiled for  Get speed
+[2023.10.31-02.32.48:740][708]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\UE4 Pong\UE4Pong-Austin-Ozan\UE4PongAustinOzan\Content\Blueprints\ChildClass\bp_paddlePlayer.uasset: [Compiler] The property associated with  Speed  could not be found in '/Game/Blueprints/ChildClass/bp_paddlePlayer.bp_paddlePlayer_C'
+[2023.10.31-02.32.48:858][708]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2023.10.31-02.32.49:334][732]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_paddle16B645054AECD10C4D0251BB7DCC5338.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/ParentClass/bp_paddle.uasset'
+[2023.10.31-02.32.49:361][732]AssetCheck: New page: Asset Save: bp_paddle
+[2023.10.31-02.32.49:361][732]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ParentClass/bp_paddle.bp_paddle
+[2023.10.31-02.33.05:040][638]BlueprintLog: New page: Compile bp_paddlePlayer
+[2023.10.31-02.33.05:102][638]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2023.10.31-02.33.26:477][844]BlueprintLog: New page: Compile bp_paddlePlayer
+[2023.10.31-02.33.26:544][844]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2023.10.31-02.33.27:261][881]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_paddlePlayer2D99E4EB45D4A399AF74EA8D86FC8AB7.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/ChildClass/bp_paddlePlayer.uasset'
+[2023.10.31-02.33.27:279][881]AssetCheck: New page: Asset Save: bp_paddlePlayer
+[2023.10.31-02.33.27:279][881]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ChildClass/bp_paddlePlayer.bp_paddlePlayer
+[2023.10.31-02.36.02:542][786]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
