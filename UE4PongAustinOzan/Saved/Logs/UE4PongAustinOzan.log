@@ -1353,3 +1353,150 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.30-23.31.51:979][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2023.10.30-23.31.52:017][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
 [2023.10.30-23.31.52:047][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.10.30-23.44.24:610][907]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.30-23.44.24:614][907]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.30-23.44.26:114][907]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.30-23.44.26:133][907]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.10.30-23.44.26:153][907]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.10.30-23.44.30:527][170]LogContentBrowser: Attempting asset rename: NewBlueprint -> bp_ball
+[2023.10.30-23.44.30:535][170]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.10.30-23.44.32:282][273]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bp_ball.bp_ball
+[2023.10.30-23.51.19:445][873]BlueprintLog: New page: Compile bp_ball
+[2023.10.30-23.51.19:516][873]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2023.10.30-23.51.20:755][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp_ball" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/bp_ball.uasset" SILENT=true
+[2023.10.30-23.51.20:767][935]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ballC191E07C436DE228BC0C55ACBD06646F.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/bp_ball.uasset'
+[2023.10.30-23.51.20:793][935]AssetCheck: New page: Asset Save: bp_ball
+[2023.10.30-23.51.20:793][935]LogContentValidation: Display: Validating Blueprint /Game/bp_ball.bp_ball
+[2023.10.30-23.51.34:422][722]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.30-23.51.34:431][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.30-23.51.34:431][722]PIE: New page: PIE session: Pong (Oct 30, 2023, 1:51:34 PM)
+[2023.10.30-23.51.34:431][722]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Pong
+[2023.10.30-23.51.34:435][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003522s)
+[2023.10.30-23.51.34:436][722]LogAIModule: Creating AISystem for world Pong
+[2023.10.30-23.51.34:437][722]LogPlayLevel: PIE: World Init took: (0.002378s)
+[2023.10.30-23.51.34:437][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Pong.Pong to /Game/Map/UEDPIE_0_Pong.Pong (0.006108s)
+[2023.10.30-23.51.34:482][722]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2023.10.30-23.51.34:484][722]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.10.30-23.51.34:485][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.30-23.51.34:485][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.30-23.51.34:485][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.30-23.51.34:485][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.30-23.51.34:485][722]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.30-23.51.34:485][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.30-23.51.34:485][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.30-23.51.34:485][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.30-23.51.34:485][722]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.30-23.51.34:485][722]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.30-23.51.34:485][722]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.30-23.51.34:485][722]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.30-23.51.34:490][722]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.30-23.51.34:490][722]LogAudioMixer: Display: 1: FrontRight
+[2023.10.30-23.51.34:509][722]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2023.10.30-23.51.34:509][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.30-23.51.34:509][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.30-23.51.34:509][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.30-23.51.34:511][722]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.30-23.51.34:511][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.30-23.51.34:511][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.30-23.51.34:513][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.30-23.51.34:513][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.30-23.51.34:513][722]LogInit: FAudioDevice initialized.
+[2023.10.30-23.51.34:513][722]LogAudio: Display: Audio Device (ID: 8) registered with world 'Pong'.
+[2023.10.30-23.51.34:527][722]LogLoad: Game class is 'bp_GameMode_C'
+[2023.10.30-23.51.34:528][722]LogWorld: Bringing World /Game/Map/UEDPIE_0_Pong.Pong up for play (max tick rate 60) at 2023.10.30-18.51.34
+[2023.10.30-23.51.34:528][722]LogWorld: Bringing up level for play took: 0.000761
+[2023.10.30-23.51.34:528][722]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2023.10.30-23.51.34:532][722]PIE: Server logged in
+[2023.10.30-23.51.34:533][722]PIE: Play in editor total start time 0.106 seconds.
+[2023.10.30-23.52.03:513][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-23.52.03:513][452]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Pong
+[2023.10.30-23.52.03:514][452]LogWorld: UWorld::CleanupWorld for Pong, bSessionEnded=true, bCleanupResources=true
+[2023.10.30-23.52.03:514][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.30-23.52.03:525][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.30-23.52.03:542][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.30-23.52.03:579][452]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.30-23.52.03:579][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.30-23.52.03:581][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.30-23.52.03:585][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-23.52.03:590][452]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2023.10.30-23.52.03:623][453]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.10.30-23.52.17:973][176]BlueprintLog: New page: Compile bp_ball
+[2023.10.30-23.52.18:041][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2023.10.30-23.52.18:518][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp_ball" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/bp_ball.uasset" SILENT=true
+[2023.10.30-23.52.18:531][197]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ball0DC83E7D438FE7AC374327B9D2CD3657.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/bp_ball.uasset'
+[2023.10.30-23.52.18:547][197]AssetCheck: New page: Asset Save: bp_ball
+[2023.10.30-23.52.18:547][197]LogContentValidation: Display: Validating Blueprint /Game/bp_ball.bp_ball
+[2023.10.30-23.52.36:431][529]BlueprintLog: New page: Compile bp_ball
+[2023.10.30-23.52.36:512][529]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2023.10.30-23.52.37:036][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp_ball" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/bp_ball.uasset" SILENT=true
+[2023.10.30-23.52.37:048][552]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ball47AFD62D42D07B2039A9C8989C71DD09.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/bp_ball.uasset'
+[2023.10.30-23.52.37:069][552]AssetCheck: New page: Asset Save: bp_ball
+[2023.10.30-23.52.37:069][552]LogContentValidation: Display: Validating Blueprint /Game/bp_ball.bp_ball
+[2023.10.30-23.53.02:483][918]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2023.10.30-23.53.02:794][918]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/Pong_Auto247A7F1D7440B8033117D4F8CB1D6214B.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/Autosaves/Game/Map/Pong_Auto2.umap'
+[2023.10.30-23.53.02:796][918]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Pong' took 0.349
+[2023.10.30-23.53.02:796][918]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.349
+[2023.10.30-23.53.09:975][312]BlueprintLog: New page: Compile bp_player
+[2023.10.30-23.53.10:035][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2023.10.30-23.53.10:521][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp_player" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/bp_player.uasset" SILENT=true
+[2023.10.30-23.53.10:538][332]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_player33AEFCB44CDDB04C68B4939F17956DB8.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/bp_player.uasset'
+[2023.10.30-23.53.10:567][332]AssetCheck: New page: Asset Save: bp_player
+[2023.10.30-23.53.10:567][332]LogContentValidation: Display: Validating Blueprint /Game/bp_player.bp_player
+[2023.10.30-23.54.57:905][206]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.30-23.54.57:909][206]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.30-23.55.26:707][206]LogSlate: Window 'Pick Physical Material Class' being destroyed
+[2023.10.30-23.55.26:727][206]LogContentBrowser: Deferred new asset file creation: NewPhysicalMaterial
+[2023.10.30-23.55.26:755][206]LogContentBrowser: Creating deferred item: NewPhysicalMaterial
+[2023.10.30-23.55.35:311][711]LogContentBrowser: Attempting asset rename: NewPhysicalMaterial -> NewPhysicalMaterial
+[2023.10.30-23.55.35:311][711]LogContentBrowser: End creating deferred item NewPhysicalMaterial
+[2023.10.30-23.55.37:221][822]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2023.10.30-23.55.38:391][822]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.30-23.55.38:535][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.10.30-23.55.48:346][116]LogSlate: Window 'Pick Physical Material Class' being destroyed
+[2023.10.30-23.55.48:361][116]LogContentBrowser: Deferred new asset file creation: NewPhysicalMaterial
+[2023.10.30-23.55.48:378][116]LogContentBrowser: Creating deferred item: NewPhysicalMaterial
+[2023.10.30-23.55.52:866][386]LogContentBrowser: Attempting asset rename: NewPhysicalMaterial -> pm_bouncy
+[2023.10.30-23.55.52:867][386]LogContentBrowser: End creating deferred item NewPhysicalMaterial
+[2023.10.30-23.55.54:227][465]LogAssetEditorSubsystem: Opening Asset editor for PhysicalMaterial /Game/pm_bouncy.pm_bouncy
+[2023.10.30-23.56.02:912][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pm_bouncy" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/pm_bouncy.uasset" SILENT=true
+[2023.10.30-23.56.02:913][975]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/pm_bouncyFCED878F4BB33ED5B252B48349A1E26D.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/pm_bouncy.uasset'
+[2023.10.30-23.56.02:931][975]AssetCheck: New page: Asset Save: pm_bouncy
+[2023.10.30-23.56.02:931][975]LogContentValidation: Display: Validating PhysicalMaterial /Game/pm_bouncy.pm_bouncy
+[2023.10.30-23.56.19:427][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pm_bouncy" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/pm_bouncy.uasset" SILENT=true
+[2023.10.30-23.56.19:429][388]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/pm_bouncyCB225A7E41C3F43DD7370FA399ECE6AA.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/pm_bouncy.uasset'
+[2023.10.30-23.56.19:448][388]AssetCheck: New page: Asset Save: pm_bouncy
+[2023.10.30-23.56.19:448][388]LogContentValidation: Display: Validating PhysicalMaterial /Game/pm_bouncy.pm_bouncy
+[2023.10.30-23.56.28:147][873]BlueprintLog: New page: Compile bp_ball
+[2023.10.30-23.56.28:222][873]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2023.10.30-23.56.28:669][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp_ball" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/bp_ball.uasset" SILENT=true
+[2023.10.30-23.56.28:679][891]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ball91F21C124077D6384EE906B0661AB46D.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/bp_ball.uasset'
+[2023.10.30-23.56.28:696][891]AssetCheck: New page: Asset Save: bp_ball
+[2023.10.30-23.56.28:696][891]LogContentValidation: Display: Validating Blueprint /Game/bp_ball.bp_ball
+[2023.10.30-23.56.33:513][162]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2023.10.30-23.56.33:546][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Pong" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Map/Pong.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.30-23.56.33:581][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.10.30-23.56.33:591][162]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/Pong0AD6559B48232B537DE5F8ABF56C0811.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Map/Pong.umap'
+[2023.10.30-23.56.33:604][162]LogFileHelpers: Saving map 'Pong' took 0.059
+[2023.10.30-23.56.33:621][162]AssetCheck: New page: Asset Save: Pong
+[2023.10.30-23.56.33:621][162]LogContentValidation: Display: Validating World /Game/Map/Pong.Pong
+[2023.10.30-23.56.43:842][476]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.30-23.56.43:859][476]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.30-23.57.06:671][844]LogContentBrowser: Attempting asset rename: NewFolder -> saf
+[2023.10.30-23.57.06:671][844]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.31-00.53.43:503][918]BlueprintLog: New page: Compile bp_ball
+[2023.10.31-00.53.43:584][918]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2023.10.31-00.53.44:063][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp_ball" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/bp_ball.uasset" SILENT=true
+[2023.10.31-00.53.44:077][938]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ballA7E7B736402B4B5F447DBBB2AE27C4C1.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/bp_ball.uasset'
+[2023.10.31-00.53.44:097][938]AssetCheck: New page: Asset Save: bp_ball
+[2023.10.31-00.53.44:097][938]LogContentValidation: Display: Validating Blueprint /Game/bp_ball.bp_ball
+[2023.10.31-00.54.11:743][329]LogUObjectHash: Compacting FUObjectHashTables data took   7.34ms
+[2023.10.31-00.54.11:758][329]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/Pong_Auto30A9FD6C84978164E740F85A195D3E9BB.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/Autosaves/Game/Map/Pong_Auto3.umap'
+[2023.10.31-00.54.11:761][329]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Pong' took 0.077
+[2023.10.31-00.54.11:761][329]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.077
+[2023.10.31-00.54.49:290][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.10.31-00.54.49:322][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Pong" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Map/Pong.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.31-00.54.49:355][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.10.31-00.54.49:366][759]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/PongED7F162E4AB606F943A4E09666DE6880.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Map/Pong.umap'
+[2023.10.31-00.54.49:380][759]LogFileHelpers: Saving map 'Pong' took 0.058
+[2023.10.31-00.54.49:397][759]AssetCheck: New page: Asset Save: Pong
+[2023.10.31-00.54.49:397][759]LogContentValidation: Display: Validating World /Game/Map/Pong.Pong
