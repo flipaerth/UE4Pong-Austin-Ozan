@@ -1754,3 +1754,553 @@ Make sure 'bp_paddlePlayer_C' has been compiled for  Get speed
 [2023.10.31-02.33.27:279][881]AssetCheck: New page: Asset Save: bp_paddlePlayer
 [2023.10.31-02.33.27:279][881]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ChildClass/bp_paddlePlayer.bp_paddlePlayer
 [2023.10.31-02.36.02:542][786]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2023.10.31-02.38.55:390][112]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.31-02.38.55:393][112]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.31-02.38.58:445][112]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.31-02.38.58:455][112]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.10.31-02.38.58:469][112]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.10.31-02.39.04:975][502]LogContentBrowser: Attempting asset rename: NewBlueprint -> bp_ballSpawner
+[2023.10.31-02.39.04:980][502]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.10.31-02.39.07:430][648]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/bp_ballSpawner.bp_ballSpawner
+[2023.10.31-02.39.10:256][782]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.10.31-02.39.10:256][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-02.40.03:751][579]Cmd: DELETE
+[2023.10.31-02.40.03:845][579]Cmd: ACTOR DELETE
+[2023.10.31-02.40.04:191][579]LogEditorActor: Deleted Actor: bp_ball_C
+[2023.10.31-02.40.04:244][579]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2023.10.31-02.40.04:247][579]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2023.10.31-02.40.53:510][509]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.10.31-02.40.53:536][509]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.31-02.41.26:092][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2023.10.31-02.41.26:104][239]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/Pong_Auto620DB5DF6429843300FCAB690D0E3D99E.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/Autosaves/Game/Map/Pong_Auto6.umap'
+[2023.10.31-02.41.26:105][239]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Pong' took 0.051
+[2023.10.31-02.41.26:105][239]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2023.10.31-02.43.25:964][374]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/bp_ball.bp_ball
+[2023.10.31-02.43.33:165][760]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.10.31-02.43.33:165][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-02.44.15:475][ 22]BlueprintLog: New page: Compile bp_ballSpawner
+[2023.10.31-02.44.15:578][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2023.10.31-02.44.16:065][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_ballSpawner" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ballSpawner.uasset" SILENT=true
+[2023.10.31-02.44.16:074][ 48]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ballSpawner6AB4EEB247F40BB209AFC49CA2E30CAA.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ballSpawner.uasset'
+[2023.10.31-02.44.16:095][ 48]AssetCheck: New page: Asset Save: bp_ballSpawner
+[2023.10.31-02.44.16:095][ 48]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/bp_ballSpawner.bp_ballSpawner
+[2023.10.31-02.44.21:557][271]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.31-02.44.21:565][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.31-02.44.21:565][271]PIE: New page: PIE session: Pong (Oct 30, 2023, 4:44:21 PM)
+[2023.10.31-02.44.21:587][271]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Pong
+[2023.10.31-02.44.21:590][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002759s)
+[2023.10.31-02.44.21:591][271]LogAIModule: Creating AISystem for world Pong
+[2023.10.31-02.44.21:592][271]LogPlayLevel: PIE: World Init took: (0.001802s)
+[2023.10.31-02.44.21:592][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Pong.Pong to /Game/Map/UEDPIE_0_Pong.Pong (0.004820s)
+[2023.10.31-02.44.21:635][271]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2023.10.31-02.44.21:637][271]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.10.31-02.44.21:637][271]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.31-02.44.21:637][271]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.31-02.44.21:637][271]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.31-02.44.21:637][271]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.31-02.44.21:637][271]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.31-02.44.21:637][271]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.31-02.44.21:637][271]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.31-02.44.21:637][271]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.31-02.44.21:638][271]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.31-02.44.21:638][271]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.31-02.44.21:638][271]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.31-02.44.21:638][271]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.31-02.44.21:642][271]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.31-02.44.21:642][271]LogAudioMixer: Display: 1: FrontRight
+[2023.10.31-02.44.21:659][271]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2023.10.31-02.44.21:659][271]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.31-02.44.21:659][271]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.31-02.44.21:659][271]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.31-02.44.21:660][271]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.31-02.44.21:660][271]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.31-02.44.21:660][271]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.31-02.44.21:662][271]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.31-02.44.21:662][271]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.31-02.44.21:662][271]LogInit: FAudioDevice initialized.
+[2023.10.31-02.44.21:662][271]LogAudio: Display: Audio Device (ID: 10) registered with world 'Pong'.
+[2023.10.31-02.44.21:671][271]LogLoad: Game class is 'bp_GameMode_C'
+[2023.10.31-02.44.21:672][271]LogWorld: Bringing World /Game/Map/UEDPIE_0_Pong.Pong up for play (max tick rate 60) at 2023.10.30-21.44.21
+[2023.10.31-02.44.21:672][271]LogWorld: Bringing up level for play took: 0.000700
+[2023.10.31-02.44.21:672][271]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2023.10.31-02.44.21:730][271]PIE: Server logged in
+[2023.10.31-02.44.21:731][271]PIE: Play in editor total start time 0.167 seconds.
+[2023.10.31-02.44.35:169][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-02.44.35:169][ 75]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Pong
+[2023.10.31-02.44.35:170][ 75]LogWorld: UWorld::CleanupWorld for Pong, bSessionEnded=true, bCleanupResources=true
+[2023.10.31-02.44.35:170][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-02.44.35:185][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.31-02.44.35:190][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-02.44.35:227][ 75]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.31-02.44.35:227][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.31-02.44.35:229][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.31-02.44.35:232][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-02.44.35:237][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2023.10.31-02.44.35:259][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.10.31-02.45.01:820][575]BlueprintLog: New page: Collapse to Function
+[2023.10.31-02.51.40:204][320]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2023.10.31-02.51.40:217][320]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/Pong_Auto7A0B31C3448AB2B0A91CE10B546CF661A.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/Autosaves/Game/Map/Pong_Auto7.umap'
+[2023.10.31-02.51.40:218][320]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Pong' took 0.062
+[2023.10.31-02.51.40:218][320]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2023.10.31-02.51.40:219][320]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/bp_ballSpawner] ([2] browsable assets)...
+[2023.10.31-02.51.40:219][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bp_ballSpawner]
+[2023.10.31-02.51.40:229][320]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ballSpawner_Auto71211C8C34543DF656D9BA1BEA2EEA317.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/Autosaves/Game/Blueprints/bp_ballSpawner_Auto7.uasset'
+[2023.10.31-02.51.40:230][320]LogFileHelpers: Auto-saving content packages took 0.011
+[2023.10.31-03.23.07:474][408]BlueprintLog: New page: Compile bp_ballSpawner
+[2023.10.31-03.23.07:540][408]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2023.10.31-03.23.08:344][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_ballSpawner" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ballSpawner.uasset" SILENT=true
+[2023.10.31-03.23.08:352][453]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ballSpawnerCE6E34CD4C9FAC5C236C0A96A5765A70.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ballSpawner.uasset'
+[2023.10.31-03.23.08:366][453]AssetCheck: New page: Asset Save: bp_ballSpawner
+[2023.10.31-03.23.08:367][453]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/bp_ballSpawner.bp_ballSpawner
+[2023.10.31-03.23.14:645][823]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/bp_ball.bp_ball
+[2023.10.31-03.24.00:794][561]LogUObjectHash: Compacting FUObjectHashTables data took   8.77ms
+[2023.10.31-03.24.00:812][561]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/Pong_Auto88D8D30954E0284ECFDF75ABA6DCD348F.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/Autosaves/Game/Map/Pong_Auto8.umap'
+[2023.10.31-03.24.00:814][561]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Pong' took 0.092
+[2023.10.31-03.24.00:814][561]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.092
+[2023.10.31-03.24.00:815][561]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/bp_ball] ([2] browsable assets)...
+[2023.10.31-03.24.00:830][561]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/bp_ball.bp_ball]
+[2023.10.31-03.24.00:830][561]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bp_ball]
+[2023.10.31-03.24.00:844][561]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ball_Auto823BBCFE54321C6EFDC71D0A7BC3AB46E.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/Autosaves/Game/Blueprints/bp_ball_Auto8.uasset'
+[2023.10.31-03.24.00:845][561]LogFileHelpers: Auto-saving content packages took 0.031
+[2023.10.31-03.27.06:906][968]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.10.31-03.27.06:932][968]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.31-03.30.59:972][ 40]BlueprintLog: New page: Compile bp_ball
+[2023.10.31-03.31.00:049][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2023.10.31-03.31.00:484][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_ball" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ball.uasset" SILENT=true
+[2023.10.31-03.31.00:500][ 62]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ball95CBBDCE48E3BB3796F2A1A3A238DBA7.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ball.uasset'
+[2023.10.31-03.31.00:518][ 62]AssetCheck: New page: Asset Save: bp_ball
+[2023.10.31-03.31.00:518][ 62]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/bp_ball.bp_ball
+[2023.10.31-03.31.03:120][215]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.31-03.31.03:126][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.31-03.31.03:126][215]PIE: New page: PIE session: Pong (Oct 30, 2023, 5:31:03 PM)
+[2023.10.31-03.31.03:126][215]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Pong
+[2023.10.31-03.31.03:129][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002794s)
+[2023.10.31-03.31.03:130][215]LogAIModule: Creating AISystem for world Pong
+[2023.10.31-03.31.03:131][215]LogPlayLevel: PIE: World Init took: (0.001364s)
+[2023.10.31-03.31.03:131][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Pong.Pong to /Game/Map/UEDPIE_0_Pong.Pong (0.004312s)
+[2023.10.31-03.31.03:176][215]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2023.10.31-03.31.03:177][215]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.10.31-03.31.03:177][215]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.31-03.31.03:177][215]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.31-03.31.03:177][215]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.31-03.31.03:177][215]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.31-03.31.03:177][215]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.31-03.31.03:177][215]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.31-03.31.03:177][215]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.31-03.31.03:177][215]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.31-03.31.03:178][215]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.31-03.31.03:178][215]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.31-03.31.03:178][215]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.31-03.31.03:178][215]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.31-03.31.03:209][215]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.31-03.31.03:209][215]LogAudioMixer: Display: 1: FrontRight
+[2023.10.31-03.31.03:226][215]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2023.10.31-03.31.03:226][215]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.31-03.31.03:226][215]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.31-03.31.03:226][215]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.31-03.31.03:227][215]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.31-03.31.03:227][215]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.31-03.31.03:227][215]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.31-03.31.03:228][215]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.31-03.31.03:228][215]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.31-03.31.03:228][215]LogInit: FAudioDevice initialized.
+[2023.10.31-03.31.03:228][215]LogAudio: Display: Audio Device (ID: 11) registered with world 'Pong'.
+[2023.10.31-03.31.03:245][215]LogLoad: Game class is 'bp_GameMode_C'
+[2023.10.31-03.31.03:246][215]LogWorld: Bringing World /Game/Map/UEDPIE_0_Pong.Pong up for play (max tick rate 60) at 2023.10.30-22.31.03
+[2023.10.31-03.31.03:246][215]LogWorld: Bringing up level for play took: 0.000807
+[2023.10.31-03.31.03:247][215]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2023.10.31-03.31.03:281][215]LogOutputDevice: Warning: 
+
+Script Stack (4 frames):
+bp_ball_C.ReceiveBeginPlay
+bp_ballSpawner_C.SpawnBall
+bp_ballSpawner_C.ExecuteUbergraph_bp_ballSpawner
+bp_ballSpawner_C.ReceiveBeginPlay
+
+[2023.10.31-03.31.03:868][215]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.584 s
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: === Handled ensure: ===
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: 
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 904]
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: Type mismatch: Expected bp_ball_C, Found REINST_bp_ball_C_190
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: Stack: 
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff929c0d517 UE4Editor-Engine.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff9284cef24 UE4Editor-Engine.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff94ba0f8de UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff94be6231a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff97b5e5c41 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff97b5f1770 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff97b5c4d8d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff97b5c4184 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff97b2e19c4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff97b5c3ca3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff9281c942a UE4Editor-Engine.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff928197435 UE4Editor-Engine.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff9281a0c1f UE4Editor-Engine.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff9281c51bb UE4Editor-Engine.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff9281ae8b0 UE4Editor-Engine.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff9288e3f34 UE4Editor-Engine.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff9296b926c UE4Editor-Engine.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff97b5ebe99 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff97b5ee5af UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff97b5c4d8d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff97b59341a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff97b5c497c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff97b5c4d8d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff97b59341a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff97b5c497c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.10.31-03.31.03:868][215]LogOutputDevice: Error: [Callstack] 0x00007ff97b5c4d8d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff97b5c4184 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff97b2e19c4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff97b5c3ca3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff9281c942a UE4Editor-Engine.dll!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff928197435 UE4Editor-Engine.dll!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff9281a0c1f UE4Editor-Engine.dll!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff9295aba95 UE4Editor-Engine.dll!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff9288eca31 UE4Editor-Engine.dll!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff92954fb3e UE4Editor-Engine.dll!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff92890eb09 UE4Editor-Engine.dll!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff94bb22c45 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff94bb4622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff94bb2397d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff94bb63772 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff94bb66d31 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff94bb665f8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff94b5c0c8c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff94bec2ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff65b1287a0 UE4Editor.exe!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff65b140fcc UE4Editor.exe!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff65b1410ba UE4Editor.exe!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff65b1440dd UE4Editor.exe!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff65b155984 UE4Editor.exe!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff65b15853a UE4Editor.exe!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff9e651257d KERNEL32.DLL!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: [Callstack] 0x00007ff9e718aa78 ntdll.dll!UnknownFunction []
+[2023.10.31-03.31.03:869][215]LogOutputDevice: Error: 
+[2023.10.31-03.31.03:916][215]LogStats:                SubmitErrorReport -  0.000 s
+[2023.10.31-03.31.17:254][215]LogStats:                    SendNewReport - 13.337 s
+[2023.10.31-03.31.17:254][215]LogStats:             FDebug::EnsureFailed - 13.973 s
+[2023.10.31-03.31.17:255][215]PIE: Server logged in
+[2023.10.31-03.31.17:256][215]PIE: Play in editor total start time 14.131 seconds.
+[2023.10.31-03.31.17:273][215]LogAudioMixer: Resetting audio stream to device id 
+[2023.10.31-03.31.17:280][215]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.31-03.31.17:280][215]LogAudioMixer: Display: 1: FrontRight
+[2023.10.31-03.31.30:718][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-03.31.30:718][ 15]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Pong
+[2023.10.31-03.31.30:718][ 15]LogWorld: UWorld::CleanupWorld for Pong, bSessionEnded=true, bCleanupResources=true
+[2023.10.31-03.31.30:719][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-03.31.30:729][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.31-03.31.30:735][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-03.31.30:777][ 15]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.31-03.31.30:777][ 15]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.31-03.31.30:780][ 15]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.31-03.31.30:784][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-03.31.30:789][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2023.10.31-03.31.30:812][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.10.31-03.31.41:023][604]BlueprintLog: New page: Compile bp_ball
+[2023.10.31-03.31.41:091][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2023.10.31-03.31.41:901][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_ball" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ball.uasset" SILENT=true
+[2023.10.31-03.31.41:917][648]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ball2B798CFE417C41917459CD8840354F25.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ball.uasset'
+[2023.10.31-03.31.41:933][648]AssetCheck: New page: Asset Save: bp_ball
+[2023.10.31-03.31.41:933][648]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/bp_ball.bp_ball
+[2023.10.31-03.31.44:386][786]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.31-03.31.44:394][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.31-03.31.44:394][786]PIE: New page: PIE session: Pong (Oct 30, 2023, 5:31:44 PM)
+[2023.10.31-03.31.44:394][786]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Pong
+[2023.10.31-03.31.44:398][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003729s)
+[2023.10.31-03.31.44:399][786]LogAIModule: Creating AISystem for world Pong
+[2023.10.31-03.31.44:400][786]LogPlayLevel: PIE: World Init took: (0.001593s)
+[2023.10.31-03.31.44:400][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Pong.Pong to /Game/Map/UEDPIE_0_Pong.Pong (0.005510s)
+[2023.10.31-03.31.44:446][786]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2023.10.31-03.31.44:446][786]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.10.31-03.31.44:447][786]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.31-03.31.44:447][786]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.31-03.31.44:447][786]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.31-03.31.44:447][786]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.31-03.31.44:447][786]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.31-03.31.44:447][786]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.31-03.31.44:447][786]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.31-03.31.44:447][786]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.31-03.31.44:447][786]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.31-03.31.44:447][786]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.31-03.31.44:447][786]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.31-03.31.44:447][786]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.31-03.31.44:451][786]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.31-03.31.44:451][786]LogAudioMixer: Display: 1: FrontRight
+[2023.10.31-03.31.44:468][786]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2023.10.31-03.31.44:468][786]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.31-03.31.44:468][786]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.31-03.31.44:468][786]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.31-03.31.44:469][786]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.31-03.31.44:469][786]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.31-03.31.44:469][786]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.31-03.31.44:470][786]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.31-03.31.44:470][786]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.31-03.31.44:470][786]LogInit: FAudioDevice initialized.
+[2023.10.31-03.31.44:471][786]LogAudio: Display: Audio Device (ID: 12) registered with world 'Pong'.
+[2023.10.31-03.31.44:483][786]LogLoad: Game class is 'bp_GameMode_C'
+[2023.10.31-03.31.44:484][786]LogWorld: Bringing World /Game/Map/UEDPIE_0_Pong.Pong up for play (max tick rate 60) at 2023.10.30-22.31.44
+[2023.10.31-03.31.44:484][786]LogWorld: Bringing up level for play took: 0.000896
+[2023.10.31-03.31.44:484][786]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2023.10.31-03.31.44:489][786]PIE: Server logged in
+[2023.10.31-03.31.44:490][786]PIE: Play in editor total start time 0.097 seconds.
+[2023.10.31-03.31.51:918][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-03.31.51:918][229]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Pong
+[2023.10.31-03.31.51:919][229]LogWorld: UWorld::CleanupWorld for Pong, bSessionEnded=true, bCleanupResources=true
+[2023.10.31-03.31.52:001][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-03.31.52:011][229]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.31-03.31.52:018][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-03.31.52:059][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-03.31.52:059][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.31-03.31.52:060][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.31-03.31.52:069][229]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2023.10.31-03.31.52:095][230]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.10.31-03.32.03:324][874]BlueprintLog: New page: Compile bp_ball
+[2023.10.31-03.32.03:395][874]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2023.10.31-03.32.04:052][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_ball" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ball.uasset" SILENT=true
+[2023.10.31-03.32.04:068][910]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ball04665A554EC07D3C20B6119481F156E5.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ball.uasset'
+[2023.10.31-03.32.04:084][910]AssetCheck: New page: Asset Save: bp_ball
+[2023.10.31-03.32.04:084][910]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/bp_ball.bp_ball
+[2023.10.31-03.32.06:520][ 51]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.31-03.32.06:526][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.31-03.32.06:526][ 51]PIE: New page: PIE session: Pong (Oct 30, 2023, 5:32:06 PM)
+[2023.10.31-03.32.06:547][ 51]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Pong
+[2023.10.31-03.32.06:550][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003327s)
+[2023.10.31-03.32.06:551][ 51]LogAIModule: Creating AISystem for world Pong
+[2023.10.31-03.32.06:552][ 51]LogPlayLevel: PIE: World Init took: (0.001499s)
+[2023.10.31-03.32.06:552][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Pong.Pong to /Game/Map/UEDPIE_0_Pong.Pong (0.005044s)
+[2023.10.31-03.32.06:599][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2023.10.31-03.32.06:600][ 51]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.10.31-03.32.06:600][ 51]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.31-03.32.06:600][ 51]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.31-03.32.06:600][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.31-03.32.06:600][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.31-03.32.06:600][ 51]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.31-03.32.06:600][ 51]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.31-03.32.06:600][ 51]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.31-03.32.06:600][ 51]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.31-03.32.06:601][ 51]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.31-03.32.06:601][ 51]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.31-03.32.06:601][ 51]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.31-03.32.06:601][ 51]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.31-03.32.06:605][ 51]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.31-03.32.06:605][ 51]LogAudioMixer: Display: 1: FrontRight
+[2023.10.31-03.32.06:621][ 51]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2023.10.31-03.32.06:621][ 51]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.31-03.32.06:621][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.31-03.32.06:621][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.31-03.32.06:622][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.31-03.32.06:622][ 51]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.31-03.32.06:622][ 51]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.31-03.32.06:623][ 51]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.31-03.32.06:623][ 51]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.31-03.32.06:623][ 51]LogInit: FAudioDevice initialized.
+[2023.10.31-03.32.06:623][ 51]LogAudio: Display: Audio Device (ID: 13) registered with world 'Pong'.
+[2023.10.31-03.32.06:637][ 51]LogLoad: Game class is 'bp_GameMode_C'
+[2023.10.31-03.32.06:637][ 51]LogWorld: Bringing World /Game/Map/UEDPIE_0_Pong.Pong up for play (max tick rate 60) at 2023.10.30-22.32.06
+[2023.10.31-03.32.06:638][ 51]LogWorld: Bringing up level for play took: 0.000695
+[2023.10.31-03.32.06:638][ 51]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2023.10.31-03.32.06:641][ 51]PIE: Server logged in
+[2023.10.31-03.32.06:642][ 51]PIE: Play in editor total start time 0.117 seconds.
+[2023.10.31-03.32.14:278][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-03.32.14:278][507]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Pong
+[2023.10.31-03.32.14:278][507]LogWorld: UWorld::CleanupWorld for Pong, bSessionEnded=true, bCleanupResources=true
+[2023.10.31-03.32.14:279][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-03.32.14:293][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.31-03.32.14:300][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-03.32.14:344][507]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.31-03.32.14:344][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.31-03.32.14:347][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.31-03.32.14:350][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-03.32.14:354][507]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2023.10.31-03.32.14:376][508]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.10.31-03.32.23:656][ 36]BlueprintLog: New page: Compile bp_ball
+[2023.10.31-03.32.23:722][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2023.10.31-03.32.24:268][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_ball" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ball.uasset" SILENT=true
+[2023.10.31-03.32.24:285][ 65]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ball0387C9194797E7B7CC5B8693258E66F3.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ball.uasset'
+[2023.10.31-03.32.24:303][ 65]AssetCheck: New page: Asset Save: bp_ball
+[2023.10.31-03.32.24:303][ 65]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/bp_ball.bp_ball
+[2023.10.31-03.32.27:270][239]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.31-03.32.27:279][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.31-03.32.27:279][239]PIE: New page: PIE session: Pong (Oct 30, 2023, 5:32:27 PM)
+[2023.10.31-03.32.27:307][239]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Pong
+[2023.10.31-03.32.27:310][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003383s)
+[2023.10.31-03.32.27:311][239]LogAIModule: Creating AISystem for world Pong
+[2023.10.31-03.32.27:312][239]LogPlayLevel: PIE: World Init took: (0.001463s)
+[2023.10.31-03.32.27:312][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Pong.Pong to /Game/Map/UEDPIE_0_Pong.Pong (0.005073s)
+[2023.10.31-03.32.27:360][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2023.10.31-03.32.27:361][239]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.10.31-03.32.27:361][239]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.31-03.32.27:361][239]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.31-03.32.27:361][239]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.31-03.32.27:361][239]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.31-03.32.27:361][239]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.31-03.32.27:361][239]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.31-03.32.27:361][239]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.31-03.32.27:361][239]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.31-03.32.27:361][239]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.31-03.32.27:361][239]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.31-03.32.27:361][239]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.31-03.32.27:361][239]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.31-03.32.27:558][239]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.31-03.32.27:558][239]LogAudioMixer: Display: 1: FrontRight
+[2023.10.31-03.32.27:574][239]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2023.10.31-03.32.27:574][239]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.31-03.32.27:574][239]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.31-03.32.27:574][239]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.31-03.32.27:575][239]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.31-03.32.27:575][239]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.31-03.32.27:575][239]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.31-03.32.27:577][239]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.31-03.32.27:577][239]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.31-03.32.27:577][239]LogInit: FAudioDevice initialized.
+[2023.10.31-03.32.27:577][239]LogAudio: Display: Audio Device (ID: 14) registered with world 'Pong'.
+[2023.10.31-03.32.27:590][239]LogLoad: Game class is 'bp_GameMode_C'
+[2023.10.31-03.32.27:591][239]LogWorld: Bringing World /Game/Map/UEDPIE_0_Pong.Pong up for play (max tick rate 60) at 2023.10.30-22.32.27
+[2023.10.31-03.32.27:592][239]LogWorld: Bringing up level for play took: 0.000773
+[2023.10.31-03.32.27:592][239]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2023.10.31-03.32.27:596][239]PIE: Server logged in
+[2023.10.31-03.32.27:597][239]PIE: Play in editor total start time 0.319 seconds.
+[2023.10.31-03.33.30:858][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-03.33.30:858][ 28]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Pong
+[2023.10.31-03.33.30:859][ 28]LogWorld: UWorld::CleanupWorld for Pong, bSessionEnded=true, bCleanupResources=true
+[2023.10.31-03.33.30:859][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-03.33.30:874][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.31-03.33.30:880][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-03.33.30:925][ 28]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.31-03.33.30:925][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.31-03.33.30:926][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.31-03.33.30:929][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-03.33.30:933][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2023.10.31-03.33.30:956][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.10.31-03.36.19:442][110]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2023.10.31-03.36.19:458][110]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/Pong_Auto9A4DD787D44E1E98D353AB4BB9AA9301F.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/Autosaves/Game/Map/Pong_Auto9.umap'
+[2023.10.31-03.36.19:460][110]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Pong' took 0.085
+[2023.10.31-03.36.19:460][110]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.085
+[2023.10.31-03.36.19:461][110]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/bp_ball] ([2] browsable assets)...
+[2023.10.31-03.36.19:477][110]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/bp_ball.bp_ball]
+[2023.10.31-03.36.19:477][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bp_ball]
+[2023.10.31-03.36.19:494][110]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ball_Auto9C67B5B514FFA5D86FFBD0FB28ECDD320.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/Autosaves/Game/Blueprints/bp_ball_Auto9.uasset'
+[2023.10.31-03.36.19:496][110]LogFileHelpers: Auto-saving content packages took 0.037
+[2023.10.31-03.36.44:623][143]BlueprintLog: New page: Compile bp_ball
+[2023.10.31-03.36.44:691][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2023.10.31-03.36.45:119][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_ball" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ball.uasset" SILENT=true
+[2023.10.31-03.36.45:134][162]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ballB0518D77420FC75A85C0EBBB2F1A38DA.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ball.uasset'
+[2023.10.31-03.36.45:161][162]AssetCheck: New page: Asset Save: bp_ball
+[2023.10.31-03.36.45:161][162]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/bp_ball.bp_ball
+[2023.10.31-03.36.47:835][313]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.31-03.36.47:841][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.31-03.36.47:841][313]PIE: New page: PIE session: Pong (Oct 30, 2023, 5:36:47 PM)
+[2023.10.31-03.36.47:841][313]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Pong
+[2023.10.31-03.36.47:844][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002788s)
+[2023.10.31-03.36.47:846][313]LogAIModule: Creating AISystem for world Pong
+[2023.10.31-03.36.47:846][313]LogPlayLevel: PIE: World Init took: (0.001489s)
+[2023.10.31-03.36.47:846][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Pong.Pong to /Game/Map/UEDPIE_0_Pong.Pong (0.004440s)
+[2023.10.31-03.36.47:892][313]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2023.10.31-03.36.47:892][313]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.10.31-03.36.47:892][313]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.31-03.36.47:892][313]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.31-03.36.47:892][313]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.31-03.36.47:892][313]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.31-03.36.47:892][313]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.31-03.36.47:892][313]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.31-03.36.47:892][313]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.31-03.36.47:892][313]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.31-03.36.47:893][313]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.31-03.36.47:893][313]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.31-03.36.47:893][313]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.31-03.36.47:893][313]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.31-03.36.47:897][313]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.31-03.36.47:898][313]LogAudioMixer: Display: 1: FrontRight
+[2023.10.31-03.36.47:914][313]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2023.10.31-03.36.47:914][313]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.31-03.36.47:914][313]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.31-03.36.47:914][313]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.31-03.36.47:915][313]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.31-03.36.47:915][313]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.31-03.36.47:915][313]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.31-03.36.47:916][313]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.31-03.36.47:916][313]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.31-03.36.47:916][313]LogInit: FAudioDevice initialized.
+[2023.10.31-03.36.47:916][313]LogAudio: Display: Audio Device (ID: 15) registered with world 'Pong'.
+[2023.10.31-03.36.47:926][313]LogLoad: Game class is 'bp_GameMode_C'
+[2023.10.31-03.36.47:926][313]LogWorld: Bringing World /Game/Map/UEDPIE_0_Pong.Pong up for play (max tick rate 60) at 2023.10.30-22.36.47
+[2023.10.31-03.36.47:926][313]LogWorld: Bringing up level for play took: 0.000747
+[2023.10.31-03.36.47:928][313]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2023.10.31-03.36.47:931][313]PIE: Server logged in
+[2023.10.31-03.36.47:932][313]PIE: Play in editor total start time 0.091 seconds.
+[2023.10.31-03.37.20:898][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-03.37.20:898][285]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Pong
+[2023.10.31-03.37.20:898][285]LogWorld: UWorld::CleanupWorld for Pong, bSessionEnded=true, bCleanupResources=true
+[2023.10.31-03.37.20:899][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-03.37.20:908][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.31-03.37.20:914][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-03.37.20:958][285]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.31-03.37.20:958][285]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.31-03.37.20:959][285]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.31-03.37.20:962][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-03.37.20:966][285]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2023.10.31-03.37.20:989][286]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.10.31-03.39.34:006][453]BlueprintLog: New page: Compile bp_ball
+[2023.10.31-03.39.34:078][453]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2023.10.31-03.39.34:585][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_ball" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ball.uasset" SILENT=true
+[2023.10.31-03.39.34:601][479]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ball918D997F430F55EFE680D0A4133D8B4E.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ball.uasset'
+[2023.10.31-03.39.34:616][479]AssetCheck: New page: Asset Save: bp_ball
+[2023.10.31-03.39.34:616][479]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/bp_ball.bp_ball
+[2023.10.31-03.39.37:103][624]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.31-03.39.37:110][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.31-03.39.37:110][624]PIE: New page: PIE session: Pong (Oct 30, 2023, 5:39:37 PM)
+[2023.10.31-03.39.37:110][624]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Pong
+[2023.10.31-03.39.37:113][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002730s)
+[2023.10.31-03.39.37:114][624]LogAIModule: Creating AISystem for world Pong
+[2023.10.31-03.39.37:114][624]LogPlayLevel: PIE: World Init took: (0.001285s)
+[2023.10.31-03.39.37:114][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Pong.Pong to /Game/Map/UEDPIE_0_Pong.Pong (0.004169s)
+[2023.10.31-03.39.37:160][624]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2023.10.31-03.39.37:160][624]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.10.31-03.39.37:160][624]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.31-03.39.37:160][624]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.31-03.39.37:160][624]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.31-03.39.37:160][624]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.31-03.39.37:160][624]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.31-03.39.37:160][624]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.31-03.39.37:160][624]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.31-03.39.37:160][624]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.31-03.39.37:161][624]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.31-03.39.37:161][624]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.31-03.39.37:161][624]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.31-03.39.37:161][624]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.31-03.39.37:164][624]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.31-03.39.37:164][624]LogAudioMixer: Display: 1: FrontRight
+[2023.10.31-03.39.37:181][624]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2023.10.31-03.39.37:181][624]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.31-03.39.37:181][624]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.31-03.39.37:181][624]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.31-03.39.37:182][624]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.31-03.39.37:182][624]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.31-03.39.37:182][624]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.31-03.39.37:184][624]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.31-03.39.37:184][624]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.31-03.39.37:184][624]LogInit: FAudioDevice initialized.
+[2023.10.31-03.39.37:184][624]LogAudio: Display: Audio Device (ID: 16) registered with world 'Pong'.
+[2023.10.31-03.39.37:193][624]LogLoad: Game class is 'bp_GameMode_C'
+[2023.10.31-03.39.37:194][624]LogWorld: Bringing World /Game/Map/UEDPIE_0_Pong.Pong up for play (max tick rate 60) at 2023.10.30-22.39.37
+[2023.10.31-03.39.37:194][624]LogWorld: Bringing up level for play took: 0.000807
+[2023.10.31-03.39.37:194][624]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2023.10.31-03.39.37:198][624]PIE: Server logged in
+[2023.10.31-03.39.37:199][624]PIE: Play in editor total start time 0.09 seconds.
+[2023.10.31-03.39.52:738][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-03.39.52:738][554]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Pong
+[2023.10.31-03.39.52:738][554]LogWorld: UWorld::CleanupWorld for Pong, bSessionEnded=true, bCleanupResources=true
+[2023.10.31-03.39.52:738][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-03.39.52:751][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.31-03.39.52:757][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-03.39.52:839][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-03.39.52:840][554]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.31-03.39.52:841][554]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.31-03.39.52:849][554]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2023.10.31-03.39.52:878][555]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.10.31-03.40.10:137][551]BlueprintLog: New page: Compile bp_ball
+[2023.10.31-03.40.10:210][551]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2023.10.31-03.40.10:851][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bp_ball" FILE="../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ball.uasset" SILENT=true
+[2023.10.31-03.40.10:867][585]LogSavePackage: Moving '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Saved/bp_ball0A9A7905473AAED6D3D6C68C790CB316.tmp' to '../../../../../Unreal Projects/UE4 Pong/UE4Pong-Austin-Ozan/UE4PongAustinOzan/Content/Blueprints/bp_ball.uasset'
+[2023.10.31-03.40.10:883][585]AssetCheck: New page: Asset Save: bp_ball
+[2023.10.31-03.40.10:883][585]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/bp_ball.bp_ball
